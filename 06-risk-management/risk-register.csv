@@ -1,0 +1,3 @@
+Risk_ID,Name,Owner,Probability,Impact,Risk,Status
+R-001,Ransomware,IT Manager,0.8,100,80,OPEN
+R-002,Loss of documentation,CISO,0.4,60,24,OPEN
