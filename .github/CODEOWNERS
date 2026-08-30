@@ -1,0 +1,20 @@
+# Default
+* @TestFirmaA/kb-reviewers
+
+# Policies
+/02-policies/ @TestFirmaA/kb-reviewers
+
+# Directives
+/03-directives/ @TestFirmaA/kb-reviewers
+
+# Procedures
+/04-procedures/ @TestFirmaA/kb-reviewers
+
+# Technical standards
+/05-standards/ @TestFirmaA/kb-security
+
+# Risk management
+/06-risk-management/ @TestFirmaA/kb-security
+
+# Protect GitHub configuration
+/.github/ @TestFirmaA/kb-admins
