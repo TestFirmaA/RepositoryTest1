@@ -23,4 +23,4 @@ Politika sa vzťahuje na testovacie informačné systémy organizácie.
 
 ## 3. Požiadavky
 
-Privilegované účty musia používať viacfaktorovú autentifikáciu.
+Privilegované účty musia používať viacfaktorovú autentifikáciu a PAM TEST UPRAVA.
